@@ -9,3 +9,9 @@ Welcome to the Crypto AI Autotrading Bot, an advanced tool designed to automate 
 - [ ]User-Friendly Interface: Easy-to-navigate interface for both beginners and experienced traders.
 - [ ]Customizable Strategies: Allows customization of trading strategies to match individual risk profiles.
 - [ ]GPT assistant drive:Analysis market based on GPT-4
+
+#  Requirements
+
+- Openai API
+- Cryptocurrency Exchanges(like okx/biance/...) API
+- Stable internet connection/ Cloud service
